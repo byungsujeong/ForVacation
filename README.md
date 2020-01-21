@@ -36,4 +36,4 @@ Web page for the dispatch of professionals for vacationing of private businesses
 I wanted to use the include function to create efficient and simple code. but the code got complicated to see.
 
 # Challenges
-For asynchronous processing, I tried to utilize ajax. To implement ajax on my project, it required me to understand about the Xml httpRequest object.
+For asynchronous processing, I tried to utilize ajax. To implement ajax on my project, i had to understand about the Xml httpRequest object.
