@@ -1,0 +1,19 @@
+/* basic.css */
+
+@charset "UTF-8";
+body {
+    /* 바디의 기본적인 색상 설정 필요 */
+    background: beige;
+}
+
+tr.header {
+    color: black;
+    font-weight: bold;
+    font-size: 20pt;
+    text-align: center;
+}
+
+tr.input {
+    color: red;
+    font-weight: bold;
+}
