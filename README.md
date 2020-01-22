@@ -29,7 +29,7 @@ Web page for the dispatch of professionals for vacationing of private businesses
 
 # Features
 * Implement human resources registration page and use address data autocomplete API
-* Implementing a business registration page (Kakao Postcode API)
+* Implement a business registration page (Kakao Postcode API)
 * Implement review as an asynchronous processing through ajax
 
 # Trade-off decisions
